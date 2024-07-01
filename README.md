@@ -93,10 +93,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## 🗝️ Resources
 - Dynamic JavaScript
-- Express.js [Version 4.16.4](https://www.npmjs.com/package/express/v/4.16.4) 
-- UUID [Version 3.4.0](https://www.npmjs.com/package/uuid)
 - License Badge: [Shields.io](https://shields.io/)
-- Visual Studio Code: [Website](https://code.visualstudio.com/)
+- [Render](https://render.com/)
+- [Express.js Version 4.16.4](https://www.npmjs.com/package/express/v/4.16.4) 
+- [UUID Version 3.4.0](https://www.npmjs.com/package/uuid)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 
 ## ❓ Questions
