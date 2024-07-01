@@ -16,7 +16,8 @@
   - [💡 Usage Instructions](#-usage-instructions)
   - [🎞️ Walkthrough Video:](#️-walkthrough-video)
   - [📸 Screenshots:](#-screenshots)
-    - [🟢](#)
+    - [🟢 Landing Page](#-landing-page)
+    - [🟢 Notes Page](#-notes-page)
   - [📲 Installation Process](#-installation-process)
   - [🗝️ Resources](#️-resources)
   - [❓ Questions](#-questions)
@@ -54,12 +55,13 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## 🎞️ Walkthrough Video:
-[Click To Watch Some Magic!]()
+[Click To Watch Some Magic!](https://youtu.be/oX4rmz8SycQ?si=zqz4oc6RHigQCUNe)
 
 ## 📸 Screenshots:
-### 🟢 
-![](./assets_example/)
-
+### 🟢 Landing Page
+![](./assets_example/landing-page.png)
+### 🟢 Notes Page
+![](./assets_example/notes-page.png)
 
 ## 📲 Installation Process
 1. Clone the repository: [Quick Notes](https://github.com/trishamasbate/quick-notes)
