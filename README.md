@@ -34,7 +34,7 @@ This simplifies the process of note-taking, making it an indispensable tool for 
   - [📸 Screenshots:](#-screenshots)
     - [🟢 Landing Page](#-landing-page)
     - [🟢 Notes Page](#-notes-page)
-  - [📲 Installation Process](#-installation-process)
+  - [📲 Installation Process (GitHub Repository)](#-installation-process-github-repository)
   - [🗝️ Resources](#️-resources)
   - [❓ Questions](#-questions)
   - [🪪 License](#-license)
@@ -64,6 +64,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## 💡 Usage Instructions
+  **✨Click on this link deployed to Render:** [Quick Notes](https://quick-notes-lt9r.onrender.com/)
+
+  **Using the GitHub Repository:**
 1.	Locate and navigate to the directory that contains the `server.js` file within your editor.
 2.	Launch an integrated terminal directly from your editor and execute the command `node server.js`.
 3.	Navigate the deployed application at the live URL as directed by the prompt.
@@ -71,7 +74,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## 🎞️ Walkthrough Video:
-[Click To Watch Some Magic!](https://youtu.be/oX4rmz8SycQ?si=zqz4oc6RHigQCUNe)
+[Click To Watch Some Magic!](https://youtu.be/Mrl0en9u79c?si=I1YVnyPL7Ql3IWQ3)
 
 ## 📸 Screenshots:
 ### 🟢 Landing Page
@@ -79,7 +82,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ### 🟢 Notes Page
 ![](./assets_example/notes-page.png)
 
-## 📲 Installation Process
+## 📲 Installation Process (GitHub Repository)
 1. Clone the repository: [Quick Notes](https://github.com/trishamasbate/quick-notes)
 2. Install the following: 
    - Express.js [Version 4.16.4](https://www.npmjs.com/package/express/v/4.16.4) 
