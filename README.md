@@ -5,7 +5,23 @@
 
 
 ## 📃 Description:
+**Quick Notes** is a streamlined note-taking application designed to help small business owners organize their thoughts and manage tasks efficiently. With an intuitive interface, users can easily write, save, and access notes, ensuring that important information is always at their fingertips.
 
+Features:
+
+  **Welcome Page**: Start your note-taking journey from a welcoming landing page with a clear link to the main notes page.
+
+  **Notes Page**: View all your existing notes in a convenient left-hand column. The right-hand column provides empty fields to create a new note.
+
+  **Note Creation**: Enter a title and text for your new note. A "Save Note" button allows you to store the note, while a "Clear Form" button lets you start over.
+
+  **Saving Notes**: Saved notes instantly appear in the left-hand column for easy access, and navigation buttons streamline the process.
+
+  **Note Viewing**: Click on any existing note to view its details in the right-hand column. A "New Note" button appears, allowing you to quickly start writing a new note.
+
+  **Effortless Navigation**: Switch between viewing and creating notes seamlessly with intuitive navigation options.
+
+This simplifies the process of note-taking, making it an indispensable tool for managing tasks and ideas in a small business setting.
 
 ## 📌 Table of Contents
 - [📋 Quick Notes](#-quick-notes)
